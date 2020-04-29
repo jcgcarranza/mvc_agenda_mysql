@@ -1,4 +1,0 @@
-user:jc
-password:SqL1380
-host:localhost
-database:store_db
